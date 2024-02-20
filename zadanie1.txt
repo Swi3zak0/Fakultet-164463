@@ -1,0 +1,7 @@
+Czas - 3 miesiące
+Osoby:
+Projektant UI/UX - projektowanie intefejsu użytkownika
+Backend developer - logika biznesowa, zarządzanie bazą danych
+Frontend developer - implementacja interfejsu użytkownika, integracja z backendem
+Testerzy - Przeprowadzania testów
+Menadzer projektu/ TeamLeader - kordynowanie pracy zespołu, komunikacja z klientem
