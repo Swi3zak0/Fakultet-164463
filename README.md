@@ -1,7 +1,7 @@
 # Repozytorium, Przedmiot Fakultatywny
 
-Przeznaczenie:
-
+## Przeznaczenie:
 - Przesyłanie rozwiązań wykonywanych na labach
 
-
+## Author 👋
+- Patrycjusz Siwek 164463
