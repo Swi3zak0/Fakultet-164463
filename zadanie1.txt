@@ -1,0 +1,38 @@
+Patrycjusz Siwek, Michał Burski, Maciej Wysocki
+
+Czas - 3 miesiące
+Osoby:
+Projektant UI/UX - projektowanie intefejsu użytkownika
+Backend developer - logika biznesowa, zarządzanie bazą danych
+Frontend developer - implementacja interfejsu użytkownika, integracja z backendem
+Test Manager- Przeprowadzania testów
+Menadzer projektu/ ProjectManager- kordynowanie pracy zespołu, komunikacja z klientem
+
+
+Wizja:
+- Stworzenie aplikacji umożliwiającej klientom ułatwienie wyboru miejsca zjedzenia kebaba, bazując na opiniach innych klientów,
+ukazanie dokładnej lokalizacji danego miejca.
+
+Wartość biznesowa:
+- Zarabianie na reklamach gastronomicznych
+- Lepsze pozycjonowanie lokali poprzed wykup takiej metody
+- Żniżki dla użytkowników aplikacji w danych lokalach
+
+Zakres:
+Frontend, Backend, Baza danych
+
+Role w projekcie:
+Projektant UI/UX, Backend developer, Frontend developer, Test Manager, ProjectManager
+
+KPI:
+- Czas projektu
+- Przestrzeganie Harmonogramu
+- Jakość kodu
+- Wykrywalność błędów
+- Ocena ile kodu jest pokryte testami
+- Czas wdrążenia
+- Szybkie działanie aplikacji
+- Stan użytkowalnośći aplikacji przez użytkowniów
+- Opinie użytkowników
+- Wydajność Systemu
+- Czy po wprowadzeniu aktualizacji, stan użytkowników się wziększa
